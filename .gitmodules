@@ -1,0 +1,6 @@
+[submodule "PCB/MX_Alps_Hybrid.pretty"]
+	path = PCB/MX_Alps_Hybrid.pretty
+	url = https://github.com/ai03-2725/MX_Alps_Hybrid.pretty
+[submodule "PCB/random-keyboard-parts.pretty"]
+	path = PCB/random-keyboard-parts.pretty
+	url = https://github.com/ai03-2725/random-keyboard-parts.pretty
