@@ -14,6 +14,6 @@
 ### License:
 This project is licensed by [MIT](https://github.com/MaxScame/Bakers-dozen/blob/master/LICENSE)
 
-### Contribute:
+### Credits:
 - [MX_Alps_Hybrid](https://github.com/ai03-2725/MX_Alps_Hybrid) by ai03-2725
 - [random-keyboard-parts.pretty](https://github.com/ai03-2725/random-keyboard-parts.pretty) by ai03-2725
